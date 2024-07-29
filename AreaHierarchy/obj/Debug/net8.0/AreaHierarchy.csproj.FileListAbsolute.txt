@@ -1,0 +1,14 @@
+C:\Users\tgumede\Desktop\KindleTest\AreaHierarchy\bin\Debug\net8.0\AreaHierarchy.exe
+C:\Users\tgumede\Desktop\KindleTest\AreaHierarchy\bin\Debug\net8.0\AreaHierarchy.deps.json
+C:\Users\tgumede\Desktop\KindleTest\AreaHierarchy\bin\Debug\net8.0\AreaHierarchy.runtimeconfig.json
+C:\Users\tgumede\Desktop\KindleTest\AreaHierarchy\bin\Debug\net8.0\AreaHierarchy.dll
+C:\Users\tgumede\Desktop\KindleTest\AreaHierarchy\bin\Debug\net8.0\AreaHierarchy.pdb
+C:\Users\tgumede\Desktop\KindleTest\AreaHierarchy\obj\Debug\net8.0\AreaHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgumede\Desktop\KindleTest\AreaHierarchy\obj\Debug\net8.0\AreaHierarchy.AssemblyInfoInputs.cache
+C:\Users\tgumede\Desktop\KindleTest\AreaHierarchy\obj\Debug\net8.0\AreaHierarchy.AssemblyInfo.cs
+C:\Users\tgumede\Desktop\KindleTest\AreaHierarchy\obj\Debug\net8.0\AreaHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\tgumede\Desktop\KindleTest\AreaHierarchy\obj\Debug\net8.0\AreaHierarchy.dll
+C:\Users\tgumede\Desktop\KindleTest\AreaHierarchy\obj\Debug\net8.0\refint\AreaHierarchy.dll
+C:\Users\tgumede\Desktop\KindleTest\AreaHierarchy\obj\Debug\net8.0\AreaHierarchy.pdb
+C:\Users\tgumede\Desktop\KindleTest\AreaHierarchy\obj\Debug\net8.0\AreaHierarchy.genruntimeconfig.cache
+C:\Users\tgumede\Desktop\KindleTest\AreaHierarchy\obj\Debug\net8.0\ref\AreaHierarchy.dll
